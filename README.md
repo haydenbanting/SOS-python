@@ -14,6 +14,6 @@ Running:\n
 1) cd SOS-python
 2) python main.py
 
-Troubleshooting:\n
+Troubleshooting:
 1) Pygame uses SDL, you may have to install/update SDL:
   $ sudo apt-get install ia32-libs-sdl
