@@ -1,19 +1,19 @@
 # SOS-python
 The classic grid paper game, implemented in python. 
 
-Dependencies:\n
-1) NumPy\n
-2) Pygame\n
+Dependencies:
+1) NumPy
+2) Pygame
 
-Installation:\n
-$ pip install numpy\n
-$ pip install pygame\n
-$ git clone https://github.com/haydenbanting/SOS-python.git\n
+Installation:
+1) $ pip install numpy
+2) $ pip install pygame
+3) $ git clone https://github.com/haydenbanting/SOS-python.git
 
 Running:\n
-$ cd SOS-python\n
-$ python main.py\n
+1) cd SOS-python\n
+2) python main.py\n
 
 Troubleshooting:\n
-1) Pygame uses SDL, you may have to install/update SDL:\n
-$ sudo apt-get install ia32-libs-sdl\n
+1) Pygame uses SDL, you may have to install/update SDL:
+  $ sudo apt-get install ia32-libs-sdl
