@@ -11,8 +11,8 @@ Installation:
 3) $ git clone https://github.com/haydenbanting/SOS-python.git
 
 Running:\n
-1) cd SOS-python\n
-2) python main.py\n
+1) cd SOS-python
+2) python main.py
 
 Troubleshooting:\n
 1) Pygame uses SDL, you may have to install/update SDL:
