@@ -10,7 +10,7 @@ Installation:
 2) $ pip install pygame
 3) $ git clone https://github.com/haydenbanting/SOS-python.git
 
-Running:\n
+Running:
 1) cd SOS-python
 2) python main.py
 
